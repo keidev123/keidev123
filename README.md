@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+0xTan1319!;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+KeiDark!💖;Welcome+to+My+GitHub+Profile!;👀 Follow me via Git 👪;" />
 </div>
 <h2 align="center">
-  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
+  I am a Full Stack & Blockchain Developer
+  Smart Contract with me.
 </h2>
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
