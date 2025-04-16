@@ -4,7 +4,7 @@
 <h2 align="center">
   I am a Full Stack & Blockchain Developer.
 </h2>
-<h2 align="center">
+<h2 align="center" color = "red;">
 Smart Contract with me.
 </h2>
   
