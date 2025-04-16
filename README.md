@@ -53,27 +53,6 @@ Smart Contract with me.
         <img src="https://img.shields.io/badge/Nest.js-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Audit<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Web3.js-blue" /> 
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
         <img src="https://img.shields.io/badge/Polkadot-blue" /> 
@@ -82,13 +61,7 @@ Smart Contract with me.
         <img src="https://img.shields.io/badge/Rust-blue" /> 
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
         <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Code4rena-blue" /> 
-       <img src="https://img.shields.io/badge/Sherlock-blue" /> 
-       <img src="https://img.shields.io/badge/Hats-blue" /> 
-       <img src="https://img.shields.io/badge/Cantina-blue" />
-      </td>
+      </td>      
     </tr>
   </table>
 </div>
@@ -102,17 +75,17 @@ Smart Contract with me.
 </p>
 
 
-<p align="center">
-  <a href="mailto:leventetan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/vt23Ov5a9zg9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/shiny0103" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me/1310342818538983495" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/0xTan1319" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png" width="50"></a>
-</p>
+//<p align="center">
+ // <a href="mailto:leventetan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+ // &nbsp;&nbsp;
+ // <a href="https://join.skype.com/invite/vt23Ov5a9zg9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+ // &nbsp;&nbsp;
+  //<a href="https://t.me/shiny0103" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+ // &nbsp;&nbsp;
+  //<a href="https://discord.com/channels/@me/1310342818538983495" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+ // &nbsp;&nbsp;
+ // <a href="https://x.com/0xTan1319" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png" width="50"></a>
+//</p>
 
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
