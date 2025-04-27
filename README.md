@@ -79,9 +79,7 @@ Smart Contract with me.
 - ```Ton Mini App Game``` : Coinflip and Casino Game on Ton blockchain
 - ```Jetton Airdrop Bot``` : Jetton Airdrop Bot which give airdrop to top holders of specific token among 1000 ~ 50000 top holders
 
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=web3keidev&show_icons=true&theme=merko&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3keidev&layout=compact&theme=merko&count_private=true">
+
 
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
