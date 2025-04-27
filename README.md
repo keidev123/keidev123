@@ -22,7 +22,6 @@ Smart Contract with me.
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="(https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white" /> 
         <img src="https://img.shields.io/badge/Flutter-blue" /> 
         <img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/React-blue" /> 
@@ -37,7 +36,7 @@ Smart Contract with me.
         <img src="https://img.shields.io/badge/Chart.js-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <img src="https://img.shields.io/badge/Selenium-blue" />        
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
