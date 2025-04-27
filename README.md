@@ -48,13 +48,11 @@ Smart Contract with me.
 ![CI/CD](https://img.shields.io/badge/CI/CD-0170FE?style=flat-square&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
-</div>
-
-<p align="center">
-  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=web3batman.web3batman" />
+<img align="right" src="https://img.shields.io/github/followers/web3batman?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=web3batman&show_icons=true&theme=merko&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3batman&layout=compact&theme=merko&count_private=true">
 
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
