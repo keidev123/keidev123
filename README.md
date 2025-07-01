@@ -4,9 +4,6 @@
 <h2 align="center">
   I am a Full Stack & Blockchain Developer.
 </h2>
-<h2 align="center" style="color:red;">
-Smart Contract with me.
-</h2>
   
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
@@ -206,8 +203,6 @@ Smart Contract with me.
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
 ---
-
-### 🚀 **Recent Projects**
 
 - **`Tax token (token 2022) Pump.fun with new smart contract with Raydium CPMM migration`**
 
