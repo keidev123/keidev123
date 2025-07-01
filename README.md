@@ -8,45 +8,182 @@
 Smart Contract with me.
 </h2>
   
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
-</div> 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![BSC](https://img.shields.io/badge/BSC-F0B90B?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google-search-console&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI/CD-0170FE?style=flat-square&logo=gitlab&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>GoLang
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
+    </td>
+  </tr>
+  <!-- network -->
+<tr>
+  <td align="center" width="90">
+    <img src="./icons/solana.png" height="45" >
+    <br>Solana
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/ethereum.png" height="45" >
+    <br>Ethereum
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/Bitcoin.svg" height="45" >
+    <br>Bitcoin
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/aptos1.png" height="45" >
+    <br>Aptos
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/polkadot1.png" height="45" >
+    <br>Polkadot
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/cosmos.png" height="45" >
+    <br>Cosmos
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/polygon1.png" height="45" >
+    <br>Polygon
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/ton.png" height="45" >
+    <br>Ton
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/trx.png" height="45" >
+    <br>Tron
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/sui.png" height="45" >
+    <br>Sui
+  </td>
+</tr>
+<tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+<!-- common -->
+  <tr>
+    <td align="center" width="90">
+      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
+      <br>DeepSeek
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
+      <br>ElizaOS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
+      <br>Ollama
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/vapi.png" width="45" alt="VApi" />
+      <br>VApi
+    </td>
+  </tr>
+  
+</table>
 
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
@@ -55,37 +192,56 @@ Smart Contract with me.
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-<!--      <a href="https://x.com/_wizardev" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
-<!--         <a href="https://wa.me/17472320021" target="_blank"><img alt="Whatsapp"
-        src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
+     <a href="https://x.com/kei_4650" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
      <a href="https://discord.com/channels/@me" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-    <a href="https://t.me/keidev111" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://t.me/keidev111" target="_blank">
+      <img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
 </div>
 
 
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
-- ```Pumpfun + Raydium AMM | Meteora DLMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
-- ```Pumpfun TOKEN2022 + Raydium CLMM , CPMM``` : Forking Pumpfun using TOKEN2022, launch the token on raydium after hit the bonding curve
-- ```FT , NFT Staking Contract``` : Staking Contract on Solana
-- ```Raydium and Pumpfun Sniper``` : Automates tracking of new pools and executes purchases quickly.
-- ```Raydium and Pumpfun , Meteora Bundler``` : Creates pools + add liquidity + first buys tokens with 21 wallets in the first block using jito bundling
-- ```Pumpfun | Raydium | Jupito Volume Bot``` : Manages market caps and pool volumes strategically.
-- ```Solana Maker Bot``` : Increases pool makers by buying small tokens from multiple wallets, complementing the Volume Bot.
-- ```Telegram Wallet Tracking Bot``` : Tracking the Wallet token and sol transfer and swap
-- ```Ton Mini App Game``` : Coinflip and Casino Game on Ton blockchain
-- ```Jetton Airdrop Bot``` : Jetton Airdrop Bot which give airdrop to top holders of specific token among 1000 ~ 50000 top holders
+---
 
+### 🚀 **Recent Projects**
 
+- **`Tax token (token 2022) Pump.fun with new smart contract with Raydium CPMM migration`**
 
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
-</div>
+  Reward users with tax gathered from token 2022 standard's tax and distribute it to token holders and migrate to Raydium CPMM.
+
+- **`Raydium and Pumpfun Bundler`**
+
+  Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling and operates market making operations on the token, and measures the profit in real-time.
+
+- **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
+
+  Automates tracking of new pools and executes purchases using grpc (or rpc) and confirm it using modern services like Nextblock, bloXroute and lilJit.
+
+- **`Volume Bot in Raydium, Pumpfun and Meteora`**
+
+  Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
+
+- **`Token Freezer`**
+
+  Implements whitelist functionality post-pool creation, restricting token sales to specified users only.
+
+- **`Token Vesting and Locking Smart Contract`**
+
+  Smart contract that allows users to stake tokens or SOL with rewards based on staking duration and bonus plans, and vesting strategy applied with custom needs.
+
+- **`Presale IDO, ICO smart contract, various staking contract and game contract in Solana and Sui`**
+
+  Smart contract development in various fields, such as DEX development, game and asset management contract development.
+
+- **`Migration Pool Analyzer`**
+
+  Blockchain event listener designed to track the migration of tokens from launchpads (e.g., Pump.fun, Raydium Launchpad) to decentralized exchanges such as Pumpswap, Raydium, Meteora, Bonkfun, Moonit and Boopfun .
+
+---
+
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
