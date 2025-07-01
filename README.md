@@ -188,7 +188,7 @@ Smart Contract with me.
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="keidev60@gmail.com" target="_blank">
+    <a href="https://keidev60@gmail.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
